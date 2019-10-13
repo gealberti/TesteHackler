@@ -1,0 +1,116 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		splash
+	 *	@date 		0
+	 *	@title 		Splash
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.2.9.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/descri__o" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="640dp" >
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_descri__o_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__descri__o_ek2"
+					android:background="@drawable/_bg__descri__o_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+				<ImageView android:id="@+id/caminho_1257"
+					android:src="@drawable/caminho_1257"
+					android:contentDescription="caminho_1257"
+					 android:layout_marginLeft="6dp"
+					 android:layout_marginStart="6dp"
+					android:layout_marginTop="70dp"
+					android:layout_width="349.13549804688dp"
+					android:layout_height="487.99996948242dp" />
+
+				<ImageView android:id="@+id/caminho_1258"
+					android:src="@drawable/caminho_1258"
+					android:contentDescription="caminho_1258"
+					 android:layout_marginLeft="19dp"
+					 android:layout_marginStart="19dp"
+					android:layout_marginTop="89dp"
+					android:layout_width="321.53186035156dp"
+					android:layout_height="448.96008300781dp" />
+
+				<ImageView android:id="@+id/caminho_1259"
+					android:src="@drawable/caminho_1259"
+					android:contentDescription="caminho_1259"
+					 android:layout_marginLeft="13dp"
+					 android:layout_marginStart="13dp"
+					android:layout_marginTop="80dp"
+					android:layout_width="334.650390625dp"
+					android:layout_height="468.47998046875dp" />
+
+				<TextView android:id="@+id/objetivo"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="30sp"
+					android:textColor="@color/objetivo_color"
+					android:layout_marginLeft="119dp"
+					android:layout_marginTop="107dp"
+					android:layout_width="117dp"
+					android:layout_height="46dp"
+					android:text="@string/objetivo_string"
+					 />
+
+				<View android:id="@+id/ret_ngulo_202_ek2"
+					android:background="@drawable/ret_ngulo_202_ek2_shape"
+					 android:layout_marginLeft="93dp"
+					 android:layout_marginStart="93dp"
+					android:layout_marginTop="576dp"
+					android:layout_width="173dp"
+					android:layout_height="48dp" />
+
+				<TextView android:id="@+id/aceitar_"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/_15_color"
+					android:layout_marginLeft="144dp"
+					android:layout_marginTop="584dp"
+					android:layout_width="71dp"
+					android:layout_height="58dp"
+					android:text="@string/aceitar__string"
+					 />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

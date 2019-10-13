@@ -1,0 +1,161 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		splash
+	 *	@date 		0
+	 *	@title 		Splash
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.2.9.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/miss_o_concluida" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="640dp" >
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_miss_o_concluida_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__miss_o_concluida_ek2"
+					android:background="@drawable/_bg__miss_o_concluida_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+				<TextView android:id="@+id/xp"
+					android:fontFamily="Bungee"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="75sp"
+					android:textColor="@color/loja__color"
+					android:layout_marginLeft="199dp"
+					android:layout_marginTop="307dp"
+					android:layout_width="91dp"
+					android:layout_height="115dp"
+					android:text="@string/xp_string"
+					 />
+
+				<TextView android:id="@+id/miss_o__"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="65sp"
+					android:textColor="@color/miss_o___color"
+					android:layout_marginLeft="44dp"
+					android:layout_marginTop="101dp"
+					android:layout_width="255dp"
+					android:layout_height="161dp"
+					android:text="@string/miss_o___string"
+					 />
+
+				<TextView android:id="@+id/concluida__"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="58sp"
+					android:textColor="@color/miss_o___color"
+					android:layout_marginLeft="4dp"
+					android:layout_marginTop="179dp"
+					android:layout_width="337dp"
+					android:layout_height="152dp"
+					android:text="@string/concluida___string"
+					 />
+
+				<TextView android:id="@+id/__50"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="45sp"
+					android:textColor="@color/single_line_item_color"
+					android:layout_marginLeft="41dp"
+					android:layout_marginTop="406dp"
+					android:layout_width="89dp"
+					android:layout_height="69dp"
+					android:text="@string/__50_string"
+					 />
+
+				<TextView android:id="@+id/__250"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="45sp"
+					android:textColor="@color/single_line_item_color"
+					android:layout_marginLeft="189dp"
+					android:layout_marginTop="406dp"
+					android:layout_width="115dp"
+					android:layout_height="69dp"
+					android:text="@string/__250_string"
+					 />
+
+				<View android:id="@+id/ret_ngulo_186"
+					android:background="@drawable/ret_ngulo_186_shape"
+					 android:layout_marginLeft="82dp"
+					 android:layout_marginStart="82dp"
+					android:layout_marginTop="551dp"
+					android:layout_width="194dp"
+					android:layout_height="54dp" />
+
+				<TextView android:id="@+id/conclu_do"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/_15_color"
+					android:layout_marginLeft="130dp"
+					android:layout_marginTop="565dp"
+					android:layout_width="99dp"
+					android:layout_height="31dp"
+					android:text="@string/conclu_do_string"
+					 />
+
+				<ImageView android:id="@+id/caminho_1577_ek8"
+					android:src="@drawable/caminho_1577_ek8"
+					android:contentDescription="caminho_1577_ek8"
+					 android:layout_marginLeft="74dp"
+					 android:layout_marginStart="74dp"
+					android:layout_marginTop="337dp"
+					android:layout_width="64dp"
+					android:layout_height="64dp" />
+
+				<ImageView android:id="@+id/caminho_1578_ek8"
+					android:src="@drawable/caminho_1578_ek8"
+					android:contentDescription="caminho_1578_ek8"
+					 android:layout_marginLeft="82dp"
+					 android:layout_marginStart="82dp"
+					android:layout_marginTop="345dp"
+					android:layout_width="48dp"
+					android:layout_height="48dp" />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- splash strings -->
+
+	<string name="app_name">Splash</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="hackler_string">HACKLER</string>
+	<string name="_15_string">15</string>
+	<string name="_500_string">500</string>
+	<string name="loja__string">LOJA\
+</string>
+	<string name="single_line_item_string">Cappuccino\
+\
+</string>
+	<string name="single_line_item_ek1_string">Caf\
+</string>
+	<string name="single_line_item_ek2_string">Energtico\
+</string>
+	<string name="single_line_item_ek3_string">Antivrus\
+</string>
+	<string name="single_line_item_ek4_string">Bloqueador \
+ de Firewall\
+</string>
+	<string name="single_line_item_ek5_string">Lupa\
+</string>
+	<string name="single_line_item_ek6_string">culos\
+</string>
+	<string name="single_line_item_ek7_string">+XP\
+</string>
+	<string name="ainda_n_o_possui_cadastro__cadastre_se__string">Ainda no possui cadastro? Cadastre-se!</string>
+	<string name="cadastrar__string">Cadastrar\
+</string>
+	<string name="som_string">Som</string>
+	<string name="m_sica_string">Msica</string>
+	<string name="configura__es_string">CONFIGURAES</string>
+	<string name="input_text_string">Conquistas</string>
+	<string name="cursos__string">CURSOS\
+</string>
+	<string name="single_line_item_ek8_string">\
+</string>
+	<string name="single_line_item_ek9_string">50\
+</string>
+	<string name="single_line_item_ek10_string">50\
+</string>
+	<string name="single_line_item_ek11_string">50\
+</string>
+	<string name="single_line_item_ek12_string">50\
+</string>
+	<string name="single_line_item_ek13_string">50\
+</string>
+	<string name="single_line_item_ek14_string">50\
+</string>
+	<string name="single_line_item_ek15_string">50\
+</string>
+	<string name="conquistas__string">CONQUISTAS\
+</string>
+	<string name="input_text_ek1_string">Apelido</string>
+	<string name="input_text_ek2_string">Email</string>
+	<string name="cadastro_ek3_string">CADASTRO</string>
+	<string name="cadastrar__ek1_string">Cadastrar\
+</string>
+	<string name="_05_00_string">05:00</string>
+	<string name="x_string">x</string>
+	<string name="x_ek1_string">x</string>
+	<string name="x_ek2_string">x</string>
+	<string name="conferir_string">Conferir</string>
+	<string name="_05_00_ek1_string">05:00</string>
+	<string name="x_ek3_string">x</string>
+	<string name="x_ek4_string">x</string>
+	<string name="x_ek5_string">x</string>
+	<string name="conferir_ek1_string">Conferir</string>
+	<string name="itens_string">Itens</string>
+	<string name="habilidades_string">Habilidades</string>
+	<string name="pistas_encontradas_string">Pistas Encontradas</string>
+	<string name="input_text_ek3_string">Coloque os blocos aqui</string>
+	<string name="verificar_string">Verificar</string>
+	<string name="localiza__o_string">Localizao</string>
+	<string name="enquanto_string">Enquanto</string>
+	<string name="n_o_string">No</string>
+	<string name="achar_string">Achar</string>
+	<string name="procure_na_pasta_string">Procure na pasta</string>
+	<string name="localiza__o_ek1_string">Localizao</string>
+	<string name="encontre_o__ltimo_local__que_o_criminoso_esteve___string">Encontre o ltimo local\
+ que o criminoso esteve! </string>
+	<string name="objetivo_string">Objetivo</string>
+	<string name="aceitar__string">Aceitar\
+</string>
+	<string name="alerta_string">ALERTA</string>
+	<string name="firewall__string">FIREWALL\
+</string>
+	<string name="xp_string">XP</string>
+	<string name="miss_o___string">MISSO\
+\
+</string>
+	<string name="concluida___string">CONCLUIDA\
+\
+</string>
+	<string name="__50_string">+50</string>
+	<string name="__250_string">+250</string>
+	<string name="conclu_do_string">Concludo</string>
+	<string name="xp_ek1_string">XP</string>
+	<string name="curso__string">CURSO\
+</string>
+	<string name="concluido__string">CONCLUIDO\
+</string>
+	<string name="__250_ek1_string">+250</string>
+	<string name="conclu_do_ek1_string">Concludo</string>
+</resources>

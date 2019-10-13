@@ -1,0 +1,128 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		splash
+	 *	@date 		0
+	 *	@title 		Splash
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.2.9.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/curso_concluido" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="640dp" >
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_curso_concluido_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__curso_concluido_ek2"
+					android:background="@drawable/_bg__curso_concluido_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+				<TextView android:id="@+id/xp_ek1"
+					android:fontFamily="Bungee"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="75sp"
+					android:textColor="@color/loja__color"
+					android:layout_marginLeft="130dp"
+					android:layout_marginTop="320dp"
+					android:layout_width="91dp"
+					android:layout_height="115dp"
+					android:text="@string/xp_ek1_string"
+					 />
+
+				<TextView android:id="@+id/curso_"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="65sp"
+					android:textColor="@color/miss_o___color"
+					android:layout_marginLeft="61dp"
+					android:layout_marginTop="101dp"
+					android:layout_width="221dp"
+					android:layout_height="130dp"
+					android:text="@string/curso__string"
+					 />
+
+				<TextView android:id="@+id/concluido_"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="56sp"
+					android:textColor="@color/miss_o___color"
+					android:layout_marginLeft="8dp"
+					android:layout_marginTop="180dp"
+					android:layout_width="331dp"
+					android:layout_height="107dp"
+					android:text="@string/concluido__string"
+					 />
+
+				<TextView android:id="@+id/__250_ek1"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="45sp"
+					android:textColor="@color/single_line_item_color"
+					android:layout_marginLeft="117dp"
+					android:layout_marginTop="407dp"
+					android:layout_width="115dp"
+					android:layout_height="69dp"
+					android:text="@string/__250_ek1_string"
+					 />
+
+				<View android:id="@+id/ret_ngulo_186_ek1"
+					android:background="@drawable/ret_ngulo_186_ek1_shape"
+					 android:layout_marginLeft="82dp"
+					 android:layout_marginStart="82dp"
+					android:layout_marginTop="551dp"
+					android:layout_width="194dp"
+					android:layout_height="54dp" />
+
+				<TextView android:id="@+id/conclu_do_ek1"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/_15_color"
+					android:layout_marginLeft="130dp"
+					android:layout_marginTop="565dp"
+					android:layout_width="99dp"
+					android:layout_height="31dp"
+					android:text="@string/conclu_do_ek1_string"
+					 />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

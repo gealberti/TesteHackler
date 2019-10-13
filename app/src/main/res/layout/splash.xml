@@ -1,0 +1,79 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		splash
+	 *	@date 		0
+	 *	@title 		Splash
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.2.9.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/splash" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="640dp" >
+
+
+
+			<RelativeLayout android:id="@+id/page_splash_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__splash_ek2"
+					android:background="@drawable/_bg__splash_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+				<TextView android:id="@+id/hackler"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="37sp"
+					android:textColor="@color/hackler_color"
+					android:layout_marginLeft="92dp"
+					android:layout_marginTop="419dp"
+					android:layout_width="169dp"
+					android:layout_height="56dp"
+					android:text="@string/hackler_string"
+					 />
+
+				<ImageView android:id="@+id/hacker_logo"
+					android:src="@drawable/hacker_logo"
+					android:contentDescription="hacker_logo"
+					 android:layout_marginLeft="87dp"
+					 android:layout_marginStart="87dp"
+					android:layout_marginTop="219dp"
+					android:layout_width="186dp"
+					android:layout_height="202dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

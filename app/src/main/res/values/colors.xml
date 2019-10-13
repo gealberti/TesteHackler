@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- splash colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__splash_ek2_color">#303030</color>
+	<color name="hackler_color">#2a2a2a</color>
+	<color name="elipse_1_color">#eeeeee</color>
+	<color name="elipse_3_color">#c9d0d9</color>
+	<color name="_15_color">#303030</color>
+	<color name="loja__color">#de2418</color>
+	<color name="single_line_item_color">#ffffff</color>
+	<color name="ret_ngulo_202_color">#18de66</color>
+	<color name="ellipse_color">#000000</color>
+	<color name="text_path_color">#009688</color>
+	<color name="input_text_ek1_color">#b6bec9</color>
+	<color name="elipse_12_color">#d6dde7</color>
+	<color name="objetivo_color">#eeeeee</color>
+	<color name="_bg__firewall_ek2_color">#de2418</color>
+	<color name="alerta_color">#f9831b</color>
+	<color name="miss_o___color">#009688</color>
+</resources>

@@ -1,0 +1,467 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		splash
+	 *	@date 		0
+	 *	@title 		Splash
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.2.9.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/fase" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="640dp" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_fase_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__fase_ek2"
+					android:background="@drawable/_bg__fase_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="727dp" />
+
+				<View android:id="@+id/ret_ngulo_184"
+					android:background="@drawable/ret_ngulo_184_shape"
+					 android:alpha="0.25882352941176"
+					 android:layout_marginLeft="271dp"
+					 android:layout_marginStart="271dp"
+					android:layout_marginTop="30dp"
+					android:layout_width="74dp"
+					android:layout_height="37dp" />
+
+				<TextView android:id="@+id/_05_00"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/loja__color"
+					android:layout_marginLeft="282dp"
+					android:layout_marginTop="37dp"
+					android:layout_width="57dp"
+					android:layout_height="31dp"
+					android:text="@string/_05_00_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/ic_apps"
+					android:layout_marginTop="23dp"
+					android:layout_marginStart="16dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle"
+						android:background="@drawable/rectangle_shape"
+						 android:alpha="0"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="50dp"
+						android:layout_height="50dp" />
+
+					<ImageView android:id="@+id/path"
+						android:src="@drawable/path"
+						android:contentDescription="path"
+						 android:layout_marginLeft="4dp"
+						 android:layout_marginStart="4dp"
+						android:layout_marginTop="4dp"
+						android:layout_width="42dp"
+						android:layout_height="42dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/repeti__o_de_grade_2"
+					android:layout_marginTop="108dp"
+					android:layout_marginStart="14dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/grupo_7_ek5"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/caminho_758_ek5"
+							android:src="@drawable/caminho_758_ek5"
+							android:contentDescription="caminho_758_ek5"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="338.99987792969dp"
+							android:layout_height="132.98770141602dp" />
+
+						<ImageView android:id="@+id/caminho_759_ek5"
+							android:src="@drawable/caminho_759_ek5"
+							android:contentDescription="caminho_759_ek5"
+							 android:layout_marginLeft="3dp"
+							 android:layout_marginStart="3dp"
+							android:layout_marginTop="3dp"
+							android:layout_width="332.7880859375dp"
+							android:layout_height="127.31607055664dp" />
+
+						<ImageView android:id="@+id/caminho_760_ek5"
+							android:src="@drawable/caminho_760_ek5"
+							android:contentDescription="caminho_760_ek5"
+							 android:layout_marginLeft="7dp"
+							 android:layout_marginStart="7dp"
+							android:layout_marginTop="6dp"
+							android:layout_width="325.41369628906dp"
+							android:layout_height="121.45474243164dp" />
+
+						<ImageView android:id="@+id/caminho_761_ek5"
+							android:src="@drawable/caminho_761_ek5"
+							android:contentDescription="caminho_761_ek5"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="3dp"
+							android:layout_width="205.04663085938dp"
+							android:layout_height="39.717834472656dp" />
+
+						<ImageView android:id="@+id/caminho_762_ek5"
+							android:src="@drawable/caminho_762_ek5"
+							android:contentDescription="caminho_762_ek5"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="207.46252441406dp"
+							android:layout_height="42.647033691406dp" />
+
+						<ImageView android:id="@+id/caminho_763_ek5"
+							android:src="@drawable/caminho_763_ek5"
+							android:contentDescription="caminho_763_ek5"
+							 android:layout_marginLeft="7dp"
+							 android:layout_marginStart="7dp"
+							android:layout_marginTop="6dp"
+							android:layout_width="195.72863769531dp"
+							android:layout_height="36.877838134766dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/grupo_7_ek6"
+						android:layout_marginTop="153dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/caminho_758_ek6"
+							android:src="@drawable/caminho_758_ek6"
+							android:contentDescription="caminho_758_ek6"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="338.99987792969dp"
+							android:layout_height="132.98767089844dp" />
+
+						<ImageView android:id="@+id/caminho_759_ek6"
+							android:src="@drawable/caminho_759_ek6"
+							android:contentDescription="caminho_759_ek6"
+							 android:layout_marginLeft="3dp"
+							 android:layout_marginStart="3dp"
+							android:layout_marginTop="3dp"
+							android:layout_width="332.7880859375dp"
+							android:layout_height="127.31607055664dp" />
+
+						<ImageView android:id="@+id/caminho_760_ek6"
+							android:src="@drawable/caminho_760_ek6"
+							android:contentDescription="caminho_760_ek6"
+							 android:layout_marginLeft="7dp"
+							 android:layout_marginStart="7dp"
+							android:layout_marginTop="6dp"
+							android:layout_width="325.41369628906dp"
+							android:layout_height="121.45477294922dp" />
+
+						<ImageView android:id="@+id/caminho_761_ek6"
+							android:src="@drawable/caminho_761_ek6"
+							android:contentDescription="caminho_761_ek6"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="3dp"
+							android:layout_width="205.04663085938dp"
+							android:layout_height="39.717834472656dp" />
+
+						<ImageView android:id="@+id/caminho_762_ek6"
+							android:src="@drawable/caminho_762_ek6"
+							android:contentDescription="caminho_762_ek6"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="207.46252441406dp"
+							android:layout_height="42.647033691406dp" />
+
+						<ImageView android:id="@+id/caminho_763_ek6"
+							android:src="@drawable/caminho_763_ek6"
+							android:contentDescription="caminho_763_ek6"
+							 android:layout_marginLeft="7dp"
+							 android:layout_marginStart="7dp"
+							android:layout_marginTop="6dp"
+							android:layout_width="195.72863769531dp"
+							android:layout_height="36.877838134766dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/grupo_7_ek7"
+						android:layout_marginTop="306dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/caminho_758_ek7"
+							android:src="@drawable/caminho_758_ek7"
+							android:contentDescription="caminho_758_ek7"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="338.99987792969dp"
+							android:layout_height="132.98767089844dp" />
+
+						<ImageView android:id="@+id/caminho_759_ek7"
+							android:src="@drawable/caminho_759_ek7"
+							android:contentDescription="caminho_759_ek7"
+							 android:layout_marginLeft="3dp"
+							 android:layout_marginStart="3dp"
+							android:layout_marginTop="3dp"
+							android:layout_width="332.7880859375dp"
+							android:layout_height="127.31610107422dp" />
+
+						<ImageView android:id="@+id/caminho_760_ek7"
+							android:src="@drawable/caminho_760_ek7"
+							android:contentDescription="caminho_760_ek7"
+							 android:layout_marginLeft="7dp"
+							 android:layout_marginStart="7dp"
+							android:layout_marginTop="6dp"
+							android:layout_width="325.41369628906dp"
+							android:layout_height="121.45477294922dp" />
+
+						<ImageView android:id="@+id/caminho_761_ek7"
+							android:src="@drawable/caminho_761_ek7"
+							android:contentDescription="caminho_761_ek7"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="3dp"
+							android:layout_width="205.04663085938dp"
+							android:layout_height="39.717834472656dp" />
+
+						<ImageView android:id="@+id/caminho_762_ek7"
+							android:src="@drawable/caminho_762_ek7"
+							android:contentDescription="caminho_762_ek7"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="207.46252441406dp"
+							android:layout_height="42.647033691406dp" />
+
+						<ImageView android:id="@+id/caminho_763_ek7"
+							android:src="@drawable/caminho_763_ek7"
+							android:contentDescription="caminho_763_ek7"
+							 android:layout_marginLeft="7dp"
+							 android:layout_marginStart="7dp"
+							android:layout_marginTop="6dp"
+							android:layout_width="195.72863769531dp"
+							android:layout_height="36.877868652344dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/grupo_7_ek8"
+						android:layout_marginTop="459dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/caminho_758_ek8"
+							android:src="@drawable/caminho_758_ek8"
+							android:contentDescription="caminho_758_ek8"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="338.99987792969dp"
+							android:layout_height="132.98767089844dp" />
+
+						<ImageView android:id="@+id/caminho_759_ek8"
+							android:src="@drawable/caminho_759_ek8"
+							android:contentDescription="caminho_759_ek8"
+							 android:layout_marginLeft="3dp"
+							 android:layout_marginStart="3dp"
+							android:layout_marginTop="3dp"
+							android:layout_width="332.7880859375dp"
+							android:layout_height="127.31610107422dp" />
+
+						<ImageView android:id="@+id/caminho_760_ek8"
+							android:src="@drawable/caminho_760_ek8"
+							android:contentDescription="caminho_760_ek8"
+							 android:layout_marginLeft="7dp"
+							 android:layout_marginStart="7dp"
+							android:layout_marginTop="6dp"
+							android:layout_width="325.41369628906dp"
+							android:layout_height="121.45477294922dp" />
+
+						<ImageView android:id="@+id/caminho_761_ek8"
+							android:src="@drawable/caminho_761_ek8"
+							android:contentDescription="caminho_761_ek8"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="3dp"
+							android:layout_width="205.04663085938dp"
+							android:layout_height="39.717834472656dp" />
+
+						<ImageView android:id="@+id/caminho_762_ek8"
+							android:src="@drawable/caminho_762_ek8"
+							android:contentDescription="caminho_762_ek8"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="207.46252441406dp"
+							android:layout_height="42.647033691406dp" />
+
+						<ImageView android:id="@+id/caminho_763_ek8"
+							android:src="@drawable/caminho_763_ek8"
+							android:contentDescription="caminho_763_ek8"
+							 android:layout_marginLeft="7dp"
+							 android:layout_marginStart="7dp"
+							android:layout_marginTop="6dp"
+							android:layout_width="195.72863769531dp"
+							android:layout_height="36.877868652344dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/componente_7___1"
+					android:layout_marginTop="25dp"
+					android:layout_marginStart="79dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/caminho_766"
+						android:src="@drawable/caminho_766"
+						android:contentDescription="caminho_766"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="54dp"
+						android:layout_height="54dp" />
+
+					<ImageView android:id="@+id/caminho_765"
+						android:src="@drawable/caminho_765"
+						android:contentDescription="caminho_765"
+						 android:layout_marginLeft="64dp"
+						 android:layout_marginStart="64dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="54dp"
+						android:layout_height="54dp" />
+
+					<View android:id="@+id/elipse_12"
+						android:background="@drawable/elipse_12_shape"
+						 android:layout_marginLeft="128dp"
+						 android:layout_marginStart="128dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="48dp"
+						android:layout_height="48dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/x"
+					android:fontFamily="Century Gothic"
+					android:layout_gravity="center_vertical|end"
+					android:gravity="end"
+					android:textSize="35sp"
+					android:textColor="@color/_15_color"
+					android:layout_marginLeft="18dp"
+					android:layout_marginTop="106dp"
+					android:layout_width="22dp"
+					android:layout_height="49dp"
+					android:text="@string/x_string"
+					 />
+
+				<TextView android:id="@+id/x_ek1"
+					android:fontFamily="Century Gothic"
+					android:layout_gravity="center_vertical|end"
+					android:gravity="end"
+					android:textSize="35sp"
+					android:textColor="@color/_15_color"
+					android:layout_marginLeft="18dp"
+					android:layout_marginTop="259dp"
+					android:layout_width="22dp"
+					android:layout_height="49dp"
+					android:text="@string/x_ek1_string"
+					 />
+
+				<TextView android:id="@+id/x_ek2"
+					android:fontFamily="Century Gothic"
+					android:layout_gravity="center_vertical|end"
+					android:gravity="end"
+					android:textSize="35sp"
+					android:textColor="@color/_15_color"
+					android:layout_marginLeft="18dp"
+					android:layout_marginTop="412dp"
+					android:layout_width="22dp"
+					android:layout_height="49dp"
+					android:text="@string/x_ek2_string"
+					 />
+
+				<View android:id="@+id/ret_ngulo_187"
+					android:background="@drawable/ret_ngulo_187_shape"
+					 android:layout_marginLeft="96dp"
+					 android:layout_marginStart="96dp"
+					android:layout_marginTop="568dp"
+					android:layout_width="173dp"
+					android:layout_height="48dp" />
+
+				<TextView android:id="@+id/conferir"
+					android:fontFamily="Cairo"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/_15_color"
+					android:layout_marginLeft="139dp"
+					android:layout_marginTop="579dp"
+					android:layout_width="81dp"
+					android:layout_height="31dp"
+					android:text="@string/conferir_string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
